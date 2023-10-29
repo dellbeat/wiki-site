@@ -25,8 +25,8 @@ function plugin(hook, vm) {
     let currentThemeModeIndex = 2
 
     hook.mounted(function () {
-        let lightTheme = Docsify.dom.findAll('[href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"]')[0]
-        let darkTheme = Docsify.dom.findAll('[href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css"]')[0]
+        let lightTheme = Docsify.dom.findAll('[href="script/css/vue.css"]')[0]
+        let darkTheme = Docsify.dom.findAll('[href="script/css/dark.css"]')[0]
 
         var switchSpan = document.createElement('span')
 
