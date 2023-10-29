@@ -9,6 +9,9 @@
 *  副本
 
 
+* 版本相关
+  * [1.2.0比较重点的几个更新点](/content/version/1.2.0.md)
+
 * 成就相关
   * [丹枫别院成就点表格版](/content/achievement/danfengbieyuan.md)
   * [丹枫别院成就点非表格版](/content/achievement/danfeng_search.md)
