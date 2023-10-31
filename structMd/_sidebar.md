@@ -9,6 +9,10 @@
 *  副本[暂无内容]
 
 
+* 探索
+  * [东极海90个地图风雨全收集](/content/explore/dongjihai_explore.md)
+  * [1.2.0部分独珍道具探索指引](/content/explore/1.2.0_specail_explore.md)
+
 * 版本相关
   * [1.2.0比较重点的几个更新点](/content/version/1.2.0.md)
 
