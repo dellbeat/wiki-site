@@ -1,10 +1,9 @@
 <!-- docs/_sidebar.md -->
 
-* 职业流派
-  * [1.2.1铁衣流派装备搭配思路](/content/career/1.2.1_Tank_equipment.md)
+* 职业流派[暂无内容]
 
-* 内功装备[暂无内容]
-
+* 内功装备
+  * [1.2.1铁衣流派装备搭配思路](/content/queipment/1.2.1_Tank_equipment.md)
 
 *  副本
   * [六人周挑战·普通洞庭问剑](/content/dungeon/dtwj_normal.md)
