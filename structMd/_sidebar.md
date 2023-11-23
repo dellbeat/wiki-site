@@ -1,9 +1,10 @@
 <!-- docs/_sidebar.md -->
 
-* 职业流派[暂无内容]
-
-* 内功装备
-  * [1.2.1铁衣流派装备搭配思路](/content/queipment/1.2.1_Tank_equipment.md)
+* 职业/内功装备
+  * 铁衣
+    * [1.2.1铁衣流派装备搭配思路](/content/equeipment/1.2.1_Tank_equipment.md)
+  * 九灵
+    * [1.2.1九灵一键懒人流](/content/equeipment/1.2.1_90_OneyKey.md)
 
 *  副本
   * [六人周挑战·普通洞庭问剑](/content/dungeon/dtwj_normal.md)
