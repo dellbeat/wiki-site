@@ -6,7 +6,7 @@
   * 九灵
     * [1.2.1九灵一键懒人流](/content/equeipment/1.2.1_90_OneyKey.md)
   * 素问
-    *[素问1.2.1版本PVE内容汇总](/content/equeipment/1.2.1_Medical.md)
+    * [素问1.2.1版本PVE内容汇总](/content/equeipment/1.2.1_Medical.md)
 
 *  副本
   * [六人周挑战·普通洞庭问剑](/content/dungeon/dtwj_normal.md)
