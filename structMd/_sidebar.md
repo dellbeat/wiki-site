@@ -11,6 +11,7 @@
 *  副本
   * [六人周挑战·普通洞庭问剑](/content/dungeon/dtwj_normal.md)
   * [镜天阁外阁普通机制一览](/content/dungeon/1.2.1_jtg_normal.md)
+  * [镜天阁禁阁普通机制一览](/content/dungeon/1.2.1_jtgjg_normal.md)
 
 * 探索
   * [东极海90个地图风雨全收集](/content/explore/dongjihai_explore.md)
