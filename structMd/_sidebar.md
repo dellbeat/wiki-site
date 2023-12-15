@@ -1,5 +1,8 @@
 <!-- docs/_sidebar.md -->
 
+* 冷知识系列
+  * [一些“怎么不等我鼠了再告诉我”的小技巧](/content/cold/ColdKnowledge.md)
+
 * 职业/内功装备
   * 铁衣
     * [1.2.1铁衣流派装备搭配思路](/content/equeipment/1.2.1_Tank_equipment.md)
