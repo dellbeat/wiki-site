@@ -15,7 +15,8 @@
   * [六人周挑战·普通洞庭问剑](/content/dungeon/dtwj_normal.md)
   * [镜天阁外阁普通机制一览](/content/dungeon/1.2.1_jtg_normal.md)
   * [镜天阁禁阁普通机制一览](/content/dungeon/1.2.1_jtgjg_normal.md)
-  * [镜天阁外阁英雄新增机制一览](/content/dungeon/1.2.2_jtg_hard.md)
+  * [镜天阁外阁英雄新增机制一览](/content/dungeon/1.2.2_jtgwg_hard)
+  * [镜天阁禁阁英雄机制新增/调整一览](/content/dungeon/1.2.2_jtgng_hard.md)
 
 * 探索
   * [东极海90个地图风雨全收集](/content/explore/dongjihai_explore.md)
