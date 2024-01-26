@@ -3,7 +3,7 @@
 * 冷知识系列
   * [一些“怎么不等我鼠了再告诉我”的小技巧](/content/cold/ColdKnowledge.md)
 
-* 职业/内功装备
+* 职业/内功装备（时效性较强，谨慎参考）
   * 铁衣
     * [1.2.1铁衣流派装备搭配思路](/content/equeipment/1.2.1_Tank_equipment.md)
   * 九灵
@@ -12,11 +12,13 @@
     * [素问1.2.1版本PVE内容汇总](/content/equeipment/1.2.1_Medical.md)
 
 *  副本
-  * [六人周挑战·普通洞庭问剑](/content/dungeon/dtwj_normal.md)
-  * [镜天阁外阁普通机制一览](/content/dungeon/1.2.1_jtg_normal.md)
-  * [镜天阁禁阁普通机制一览](/content/dungeon/1.2.1_jtgjg_normal.md)
-  * [镜天阁外阁英雄新增机制一览](/content/dungeon/1.2.2_jtgwg_hard)
-  * [镜天阁禁阁英雄机制新增/调整一览](/content/dungeon/1.2.2_jtgng_hard.md)
+  * 1.2 谪仙雷吟
+    * [六人周挑战·普通洞庭问剑](/content/dungeon/dtwj_normal.md)
+    * [镜天阁外阁普通机制一览](/content/dungeon/1.2.1_jtg_normal.md)
+    * [镜天阁禁阁普通机制一览](/content/dungeon/1.2.1_jtgjg_normal.md)
+    * [镜天阁外阁英雄新增机制一览](/content/dungeon/1.2.2_jtgwg_hard)
+    * [镜天阁禁阁英雄机制新增/调整一览](/content/dungeon/1.2.2_jtgng_hard.md)
+    * [谪仙惊涛普通难度重要机制一览](/content/dungeon/1.2.3_zxjt_normal.md)
 
 * 探索
   * [东极海90个地图风雨全收集](/content/explore/dongjihai_explore.md)
