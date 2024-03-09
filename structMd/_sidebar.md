@@ -19,6 +19,7 @@
     * [镜天阁外阁英雄新增机制一览](/content/dungeon/1.2.2_jtgwg_hard)
     * [镜天阁禁阁英雄机制新增/调整一览](/content/dungeon/1.2.2_jtgng_hard.md)
     * [谪仙惊涛普通难度重要机制一览](/content/dungeon/1.2.3_zxjt_normal.md)
+    * [镜天阁史诗挑战个人复盘](/content/dungeon/1.2.4_jtg_extremeHard.md)
 
 * 探索
   * [东极海90个地图风雨全收集](/content/explore/dongjihai_explore.md)
