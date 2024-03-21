@@ -29,6 +29,7 @@
 * 版本相关
   * [1.2.0比较重点的几个更新点](/content/version/1.2.0.md)
   * [1.2.1更新速递（不完全版）](/content/version/1.2.1.md)
+  * [1.3.1版本更新速递（挑重点版）](/content/version/1.3.1.md)
 
 * 成就相关
   * [丹枫别院成就点表格版](/content/achievement/danfengbieyuan.md)
