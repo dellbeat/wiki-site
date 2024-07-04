@@ -3,6 +3,10 @@
 * 冷知识系列
   * [一些“怎么不等我鼠了再告诉我”的小技巧](/content/cold/ColdKnowledge.md)
 
+* 新手向御T攻略
+  * [新手向铁衣简单介绍](/content/tankStarter/simpleIntroduction.md)
+  * [新手向铁衣减伤介绍](/content/tankStarter/decreaseDamage.md)
+  
 * 职业/内功装备（时效性较强，谨慎参考）
   * 铁衣
     * [1.2.1铁衣流派装备搭配思路](/content/equeipment/1.2.1_Tank_equipment.md)
