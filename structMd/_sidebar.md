@@ -7,6 +7,7 @@
   * [新手向铁衣简单介绍](/content/tankStarter/simpleIntroduction.md)
   * [新手向铁衣减伤介绍](/content/tankStarter/decreaseDamage.md)
   * [铁衣一键与伤害的问题](/content/tankStarter/oneKeyAndDamage.md)
+  * [铁衣仇恨机制](/content/tankStarter/monsterHatred.md)
   
 * 职业/内功装备（时效性较强，谨慎参考）
   * 铁衣
